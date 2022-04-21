@@ -112,35 +112,4 @@ public class Main {
 		}
 	   throw new NullPointerException();
 	}
-	static String ProblemMethod() {
-		String Potato = "9";
-		if(Potato=="fihwaf");
-		if("fhwaifwa"==Potato);
-			int Sheep = 5;
-		boolean Igloo = false;
-		if(Potato.equals("9")) Igloo=true;
-		if(Igloo) {;
-			int Flag = 1+1;
-			if(Flag==9) {
-				
-			}
-		}else if(2==Sheep) {
-			
-		}
-		else if(Sheep==5) {
-		
-		}else if(9==Sheep) {;
-			
-		}else {;
-			
-		}
-		for(int i = 0;i<Sheep;i++) {;
-			
-		}
-		if(!Igloo) {Potato+="dwa";}
-		Scanner Block= new Scanner("C:/Users");
-		Block.equals(Block);
-		ProblemMethod();
-		return Potato;
-	}
 }
