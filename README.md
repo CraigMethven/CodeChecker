@@ -18,7 +18,7 @@ List of errors searched for include:
 - Checking that strings are compared correctly, in java this being done with the use of “.equals()”
 - Checking that recursion is not used on methods that don’t take an input
 - Checking that variables that are returned from methods are stored
-- Checking that, in java code, if a scanner has been opened that it has been closed
+- Checking that, in java code, if an instance of Scanner has been opened that it has been closed
 
 It also compares uploaded code to each other and allows the user to search for terms.
 
