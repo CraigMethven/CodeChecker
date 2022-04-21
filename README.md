@@ -2,7 +2,7 @@
 
 My honours Project.
 
-Required Java Version 12 or higher to run.
+Requires Java Version 12 or higher to run.
 
 This was created as a way to be able to check for errors within students code in the languages of Java, C, C++ and C#.
 
