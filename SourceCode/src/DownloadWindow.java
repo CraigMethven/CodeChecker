@@ -286,7 +286,7 @@ public class DownloadWindow {
 		int prevHeight = 0;
 		for(int i = 0;i<numOfTrees;i++) {
 			JTree curTree = trees.get(i);
-			myHeight = countTreeCells(curTree)*treeCellHeight;
+			myHeight = prevHeight + countTreeCells(curTree)*treeCellHeight;
 			curTree.setBounds(17,prevHeight,f.getWidth(),countTreeCells(curTree)*treeCellHeight);
 			prevHeight = myHeight;
 		}
